@@ -1,1 +1,2 @@
 this is from new 2 file
+i have learned git 
